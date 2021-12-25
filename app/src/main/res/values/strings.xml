@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">TourGuide @ Penang</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="art">Art</string>
+    <string name="shopping">Shop</string>
+    <string name="history">History</string>
+    <string name="food">Food</string>
+
+    // list item preview
+    <string name="george_town">George Town</string>
+    <string name="komtar">Komtar</string>
+    <string name="komtar_desc">KOMTAR Tower, in the city of George Town in Penang, Malaysia, is the state\'s tallest skyscraper</string>
+
+    // art
+    <string name="kids_on_a_bicycle">Kids On a bicycle</string>
+    <string name="armenian_street">Armenian Street</string>
+    <string name="kids_on_a_bicycle_desc">Painted by Ernest Zacharevic. It depicts a little girl taking her younger brother on a bicycle ride.</string>
+    <string name="boy_on_the_bike">Boy on the Bike</string>
+    <string name="ah_quee_street">Ah Quee Street</string>
+    <string name="boy_on_the_bike_desc">This mural on a side door shows boy hanging out on his motorcycle as he watches the traffic passing by along the street. He looks bewildered!</string>
+    <string name="the_old_fisherman">The Old Fisherman</string>
+    <string name="balik_pulau">Balik Pulau</string>
+    <string name="the_old_fisherman_desc">Mural by Julia Volchkova. Depicts an elderly fisherman who is seemingly involved in mending his net.</string>
+    <string name="the_silat_master">The Silat Master</string>
+    <string name="children_in_a_boat">Children in a Boat</string>
+    <string name="chew_jetty">Chew Jetty</string>
+    <string name="the_silat_master_desc">Another portrait by Julia Volchkova , this time of a man performing Silat, a traditional martial art practised in both Malaysia and Indonesia.</string>
+    <string name="children_in_a_boat_desc">The mural depicts two children, a boy and a girl, playing on a berthed sampan by the shore, with a pet cat.</string>
+    <string name="reaching_up">Reaching Up</string>
+    <string name="cannon_street">Cannon Street</string>
+    <string name="reaching_up_desc">Reaching Up depicts a little boy reaching for a hole in the wall, standing on a chair and inching himself as high as he could reach.</string>
+
+    //food
+    <string name="char_kway_teow">Char Kway Teow</string>
+    <string name="sian_road">Siam Road</string>
+    <string name="char_kway_teow_desc">The noodles come with a generous serving of pork lard, juicy cockles and smooth and savoury rice noodles.</string>
+    <string name="assam_laksa">Assam Laksa</string>
+    <string name="air_itam_market">Air Itam Market Food Court</string>
+    <string name="assam_laksa_desc">Mouth-watering sour, spicy and savoury soup, the tangy and sweet fish taste paired together with the fresh vegetables and mackerel will definitely leave you wanting more.</string>
+    <string name="hokkien_prawn_noodles">Hokkien Prawn Noodles</string>
+    <string name="cy_choy_road">"CY Choy Road "</string>
+    <string name="hokkien_prawn_noodles_desc">The aromatic pork based soup is sweet and fresh and you can choose to top up additional ingredients like fish balls or pork innards.</string>
+    <string name="cendol">"Cendol"</string>
+    <string name="penang_road">"Penang Road"</string>
+    <string name="cendol_desc">The chilled coconut milk helps quench your thirst, and the green jelly strands and red kidney beans give the dessert a good bite.</string>
+    <string name="nasi_kandar">Nasi Kandar</string>
+    <string name="bee_ghah_cafe">Bee Ghah Cafe</string>
+    <string name="nasi_kandar_desc">Nasi Kandar is a dish of rice and various marinated meats and vegetables, drenched in curry gravy.</string>
+    <string name="pasembur">Pasembur</string>
+    <string name="padang_kota_lama">Padang Kota Lama</string>
+    <string name="pasembur_desc">Pasembur is a Malaysian salad consisting of cucumber, potatoes, beancurd, turnip, beansprouts, prawn fritters and other seafood and topped with a spicy peanut sauce.</string>
+    <string name="nasi_lemak">Nasi Lemak</string>
+    <string name="sri_weld_food_court">Sri Weld Food Court</string>
+    <string name="nasi_lemak_desc">Rows of fragrant steamy coconut rice waiting for sweet spicy sambal sauce to be poured over. Choose between nasi lemak with chicken, fried fish, salted fish, shrimp and cuttlefish.</string>
+    <string name="wanton_noodles">Wanton Noodles</string>
+    <string name="lebuh_chulia">Lebuh Chulia</string>
+    <string name="wanton_noodles_desc">The noodles come drenched in a slick black sauce and garnished with bits of pork lard for that crunch factor. The noodles were springy and wantons were well seasoned.</string>
+    <string name="oyster_omelette">Oyster Omelette</string>
+    <string name="bayan_baru_market_food_court">Bayan Baru Market Food Court</string>
+    <string name="oyster_omelette_desc">Oyster Omelette is a dish of fried eggs, flour and juicy succulent oysters</string>
+    <string name="curry_mee">Curry Mee</string>
+    <string name="jalan_air_itam">Jalan Air Itam</string>
+    <string name="curry_mee_desc">" The curry is cooked over a charcoal stove and the curry is extremely fragrant!"</string>
+    <string name="roti_canai">Roti Canai</string>
+    <string name="jalan_transfer">Jalan Transfer</string>
+    <string name="roti_canai_desc">Pair your roto canai with the aromatic chicken curry that is moderately spicy with fall of the flesh tender chicken meat.</string>
+    <string name="lor_bak">Lor Bak</string>
+    <string name="trang_road">Trang Road</string>
+    <string name="lor_bak_desc">Lor Bak are pork rolls made from minced pork and wrapped in beancurd skin before getting deep fried till they are crispy.</string>
+    <string name="ikan_bakar">Ikan Bakar</string>
+    <string name="jalan_butterworth">Jalan Butterworth</string>
+    <string name="ikan_bakar_desc">These fish are grilled over a wire topped charcoal and marinated with a delicious sauce.</string>
+
+    //history
+    <string name="fort_cornwallis">Fort Cornwallis</string>
+    <string name="jalan_tun_syed_sheh_barakbah">Jalan Tun Syed Sheh Barakbah</string>
+    <string name="fort_cornwallis_desc">Fort Cornwallis is a bastion fort in George Town, Penang, Malaysia, built by the British East India Company in the late 18th century.</string>
+    <string name="cheong_fatt_tze_mansion">Cheong Fatt Tze Mansion</string>
+    <string name="lebuh_leith">Lebuh Leith</string>
+    <string name="cheong_fatt_tze_mansion_desc">The Cheong Fatt Tze Mansion is a government gazetted heritage building. The mansion\'s external decorations and indigo-blue outer walls make it a very distinctive building, and it is sometimes referred to as The Blue Mansion.</string>
+    <string name="bishop_street_desc">Busy commercial area, surrounded by banks, cafes, colleges and eating shops. European mercantile and retail businesses spilled out of Beach Street into the eastern half of Bishop Street, whereas the western half of Bishop Street adjoining the more Oriental Pitt Street was home to a number of traditional Chinese trades.</string>
+    <string name="bishop_street">Bishop Street</string>
+    <string name="clan_jetties_of_penang">Clan Jetties Of Penang</string>
+    <string name="pengkalan_weld">Pengkalan Weld</string>
+    <string name="clan_jetties_of_penang_desc">Busy, scenic destination featuring a traditional village of rustic houses on stilts over the water.</string>
+    <string name="queen_victoria_memorial_clock_tower">Queen Victoria Memorial Clock Tower</string>
+    <string name="queen_victoria_memorial_clock_tower_desc">Built to commemorate Queen Victoria\'s 1897 Diamond Jubilee, the tower is sixty feet tall, one foot for each year of Victoria\'s reign.</string>
+    <string name="lebuh_light">Lebuh Light</string>
+    <string name="penang_state_museum_and_art_gallery">Penang State Museum and Art Gallery</string>
+    <string name="lebuh_farquhar" />
+    <string name="penang_state_museum_and_art_gallery_desc">The Penang State Museum and Art Gallery is a museum and art gallery in George Town, Penang, Malaysia.</string>
+    <string name="penang_war_museum">Penang War Museum</string>
+    <string name="jalan_batu_maung">Jalan Batu Maung</string>
+    <string name="penang_war_museum_desc">The Penang War Museum is the largest war museum in Southeast Asia. It covers the now-defunct Batu Maung Fort, which was built by the British Army prior to World War 2.</string>
+    <string name="pinang_peranakan_mansion">Pinang Peranakan Mansion</string>
+    <string name="pinang_peranakan_mansion_desc">The museum itself is housed within a distinctive green-hued mansion at Church Street, George Town, which once served as the residence and office of a 19th-century Chinese tycoon, Chung Keng Quee.</string>
+    <string name="church_st">Church St</string>
+    <string name="leong_san_tong_khoo_kongsi">Leong San Tong Khoo Kongsi</string>
+    <string name="cannon_square">Cannon Square</string>
+    <string name="leong_san_tong_khoo_kongsi_desc">The Khoo Kongsi is a large Chinese clanhouse with elaborate and highly ornamented architecture, a mark of the dominant presence of the Chinese in Penang</string>
+    <string name="kek_lok_si_temple">Kek Lok Si Temple</string>
+    <string name="tingkat_lembah_ria_1">Tingkat Lembah Ria 1</string>
+    <string name="kek_lok_si_temple_desc">The Kek Lok Si Temple is a Buddhist temple situated in Air Itam, Penang, Malaysia. It is the largest Buddhist temple in Malaysia</string>
+
+    // shop
+    <string name="gurney_paragon_mall">Gurney Paragon Mall</string>
+    <string name="gurney_drive">Gurney Drive</string>
+    <string name="gurney_paragon_mall_desc">Gurney paragon is set to be the new premier shopping, entertainment, office and luxury residential address in Penang.</string>
+    <string name="gurney_plaza">Gurney Plaza</string>
+    <string name="straits_quay">Straits Quay</string>
+    <string name="jalan_seri_tanjung_pinang">Jalan Seri Tanjung Pinang</string>
+    <string name="straits_quay_desc">Straits Quay is a place for leisure activities and it has over 100 shops, bistros, bars and boutiques to look out across the festive marina at the heart of Straits Quay.</string>
+    <string name="prangin_mall">Prangin Mall</string>
+    <string name="jalan_dr_lim_chwee_leong">" Jalan Dr Lim Chwee Leong"</string>
+    <string name="prangin_mall_desc">Prangin mall is 5 floors of compact low-cost bonanza and is the best place to shop for cheap clothes, shoes and accessories.</string>
+    <string name="first_avenue_penang">1st Avenue Penang</string>
+    <string name="jalan_magazine">Jalan Magazine</string>
+    <string name="first_avenue_penang_desc">Just across the road from Penang Times Square, KOMTAR and Prangin Mall on Jalan Magazine, 1st Avenue Plaza is a seven storey mall that offers fashion, leisure, a cinema and a slew of dining outlets for the style conscious urbanites living and working in Penang.</string>
+    <string name="queensbay_mall">"Queensbay Mall "</string>
+    <string name="persiaran_bayan_indah">Persiaran Bayan Indah</string>
+    <string name="queensbay_mall_desc">Queensbay mall features 5 retail levels of international and home-grown brands and has more than 500 stores including fashion, lifestyle, dining, entertainment, sports, electronics, home furnishing and department store.</string>
+    <string name="design_village_penang">Design Village Penang</string>
+    <string name="jalan_cassia_barat_2">Jalan Cassia Barat 2</string>
+    <string name="design_village_penang_desc">Design Village Penang has 150 stores set in a lush 24-acre tropical garden, which hosts a broad variety of exciting international and local brands, both premium and high street.</string>
+    <string name="penang_times_square">Penang Times Square</string>
+    <string name="jalan_dato_keramat">Jalan Dato Keramat</string>
+    <string name="penang_times_square_desc">Penang Times Square is a mixed development project comprising a mall, residential tower and office block.</string>
+    <string name="komtar_tower_desc">Komtar, the icon in Penang, frequently serves as an easily identifiable landmark for travellers exploring Georgetown.</string>
+    <string name="m_mall_020">"M Mall 020 "</string>
+    <string name="m_mall_020_desc">"In M Mall 020, they have over 3000 stores catering to health, beauty, fashion and even electronic gadget stores. Visitors also get to enjoy a wide variety of dining options ranging from familiar favourites to new gastronomic experiences. "</string>
+</resources>
